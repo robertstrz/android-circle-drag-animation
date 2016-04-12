@@ -1,5 +1,6 @@
 # CircleDragAnimation
 Useless animation which allows you to drag view within specified rounded boundaries
+
 [![Build Status](https://travis-ci.org/Rzodkiewka/CircleDragAnimation.svg?branch=master)](https://travis-ci.org/Rzodkiewka/CircleDragAnimation)
 # Presentation
 ![](http://imgur.com/LQw2r7e)
